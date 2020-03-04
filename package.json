@@ -1,0 +1,24 @@
+{
+  "name": "ejs-loader-compiled",
+  "version": "0.0.1",
+  "description": "EJS loader for webpack, es6 capable and void of frontend dependencies",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "terser": "^4.6.6"
+  },
+  "devDependencies": {},
+  "author": "Sebastian Vollnhals <node@yetzt.me>",
+  "license": "Unlicense",
+  "keywords": [
+    "ejs",
+    "webpack",
+    "loader",
+    "template",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/ejs-loader-compiled.git"
+  }
+}
