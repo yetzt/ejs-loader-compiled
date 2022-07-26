@@ -4,7 +4,7 @@
   "description": "EJS loader for webpack, es6 capable and void of frontend dependencies",
   "main": "index.js",
   "dependencies": {
-    "ejs": "^2.7.4",
+    "ejs": "^3.1.7",
     "terser": "^4.6.6"
   },
   "devDependencies": {},
